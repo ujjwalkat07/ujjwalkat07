@@ -5,6 +5,9 @@
 # Hey, I'm Ujjwal (he/him) 
 <div>
   <a href="https://www.linkedin.com/in/itsukcode/">
+   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=37a16a&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Portfolio logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/itsukcode/">
    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/devXrithm">
