@@ -32,7 +32,7 @@ technologies. Passionate about building scalable and high-performance production
 
 | 🏗️ Project | 📝 Description | 🔗 Live Demo |
 |-----------|---------------|-------------|
-| 🤖 **Coin Chain Exchange** | A crypto trading platform built using Node js, TypeScript, Kafka, Redis | [🌐 Live](https://crypto-exchange-web.onrender.com/) |
+| 🤖 **Exchange-X** | A crypto trading platform built using Node js, TypeScript, Kafka, Redis | [🌐 Live](https://web-exchange-x.onrender.com/) |
 | 🤖 **CRM-X** | A crm tool for bussinesses| [🌐 Live](https://crm-x-crm-client.vercel.app/) |
 | ⚡ **Lamp** | A platform for managing hackathon participants including monitoring, uploading marks, and publishing results. | [🌐 Live](https://lamp-mih.vercel.app/)|
 | 🛒 **MIH 4.0** | Landing Page for tech hackathon for version 4.0 | [🌐 Live](https://mih-4-0.vercel.app/) |
