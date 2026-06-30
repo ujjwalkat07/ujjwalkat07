@@ -4,10 +4,10 @@
 
 # Hey, I'm Ujjwal (he/him) 
 <div>
-  <a href="https://www.linkedin.com/in/itsukcode/">
+  <a href="https://ujjwalkatiyardev.vercel.app">
    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=37a16a&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Portfolio logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/itsukcode/">
+  <a href="https://www.linkedin.com/in/ujjwalkatiyar07">
    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/devXrithm">
@@ -16,7 +16,7 @@
   <a href="mailto:itsashkatiyar07@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=C71610&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.github.com/devxrithm">
+  <a href="https://www.github.com/ujjwalkat07">
     <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   </a>
 </div>
