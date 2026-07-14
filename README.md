@@ -13,7 +13,7 @@
   <a href="https://x.com/devXrithm">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   </a>
-  <a href="mailto:itsashkatiyar07@gmail.com">
+  <a href="mailto:contact@ujjwalkatiyar.in">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=C71610&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.github.com/ujjwalkat07">
