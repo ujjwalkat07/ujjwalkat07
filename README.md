@@ -30,15 +30,14 @@ technologies. Passionate about building scalable and high-performance production
 
 ## 🚀 Current Projects
 
-| 🏗️ Project | 📝 Description | 🔗 Live Demo |
-|-----------|---------------|-------------|
-| 🤖 **Exchange-X** | A crypto trading platform built using Node js, TypeScript, Kafka, Redis | [🌐 Live](https://web-exchange-x.onrender.com/) |
-| 🤖 **CRM-X** | A crm tool for bussinesses| [🌐 Live](https://crm-x-crm-client.vercel.app/) |
-| ⚡ **Lamp** | A platform for managing hackathon participants including monitoring, uploading marks, and publishing results. | [🌐 Live](https://lamp-mih.vercel.app/)|
-| 🛒 **MIH 4.0** | Landing Page for tech hackathon for version 4.0 | [🌐 Live](https://mih-4-0.vercel.app/) |
-| 📊 **MIH 3.0** | Landing Page for tech hackathon | [🌐 Live](https://mih-hq-two.vercel.app/) |
-| ⏱️ **Count-Down Timer** | Count-Down timer for hackathon | [🌐 Live](https://countdown-mih.netlify.app/timer) |
-
+- 🤖 **Exchange-X** — Crypto trading platform with real-time matching engine → [🌐 Live](https://web-exchange-x.onrender.com/)
+- 🤖 **CRM-X** — AI-powered CRM tool for businesses → [🌐 Live](https://crm-x-crm-client.vercel.app/)
+- 💧 **AquaHome** — Water delivery management system with QR doorstep billing → [🌐 Live](https://aquahome-one.vercel.app/)
+- 🏕️ **Camplife** — Campsite booking platform for Valley of Flowers treks → [🌐 Live](https://camping-ruby.vercel.app/)
+- ⚡ **Lamp** — Hackathon participant management, scoring & results platform → [🌐 Live](https://lamp-mih.vercel.app/)
+- 🛒 **MIH 4.0** — Landing page for tech hackathon v4.0 → [🌐 Live](https://mih-4-0.vercel.app/)
+- 📊 **MIH 3.0** — Landing page for tech hackathon v3.0 → [🌐 Live](https://mih-hq-two.vercel.app/)
+- ⏱️ **Count-Down Timer** — Countdown timer for hackathon → [🌐 Live](https://countdown-mih.netlify.app/timer)
 ---
 
 ## 🛠 Language and tools
