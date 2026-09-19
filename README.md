@@ -38,11 +38,9 @@ technologies. Passionate about building scalable and high-performance production
 - 🛒 **MIH 4.0** — Landing page for tech hackathon v4.0 → [🌐 Live](https://mih-4-0.vercel.app/)
 - 📊 **MIH 3.0** — Landing page for tech hackathon v3.0 → [🌐 Live](https://mih-hq-two.vercel.app/)
 - ⏱️ **Count-Down Timer** — Countdown timer for hackathon → [🌐 Live](https://countdown-mih.netlify.app/timer)
----
 
-## 🛠 Language and tools
 
-<div display="flex">
+<!-- <div display="flex">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo"  />
@@ -65,7 +63,7 @@ technologies. Passionate about building scalable and high-performance production
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kafka" height="60" alt="kafka logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  /> -->
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo"  />
   <img width="12" />
