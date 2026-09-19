@@ -64,8 +64,3 @@ technologies. Passionate about building scalable and high-performance production
   <img src="https://skillicons.dev/icons?i=kafka" height="60" alt="kafka logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  /> -->
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=npm" height="60" alt="npm logo"  />
-</div>
