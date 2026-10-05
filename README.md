@@ -26,7 +26,6 @@ Full Stack Engineer specializing in real-time web application, scalable distribu
 <strong>Typescript, Node.js, Redis, Kafka, Websockets</strong>. Experienced in end-to-end product development with hands-on expertise in modern
 technologies. Passionate about building scalable and high-performance production ready web applications.
 
----
 
 ## 🚀 Current Projects
 
