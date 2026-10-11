@@ -22,13 +22,6 @@ I'm particularly interested in **AI agents, LLM observability, distributed syste
 - **Camplife** — A campsite booking platform for Valley of Flowers treks. [Live Demo](https://camping-ruby.vercel.app/)
 - **Lamp** — A hackathon management platform for participant management, evaluation, scoring, and results. [Live Demo](https://lamp-mih.vercel.app/)
 
-## About Me
-
-- Full Stack Developer Intern at Wokegenics Solutions, where I optimized APIs, implemented Redis caching, and improved application response times.
-- Secured 1st place in the Bharat Shiksha Hackathon 2025.
-- Led technical operations for MIH 3.0 and MIH 4.0, 30-hour hackathons attended by 1,000+ participants.
-- Co-organized a 12-hour uAgent-powered hackathon at NIT Delhi in collaboration with Fetch.ai.
-
 ## Connect With Me
 
 - Portfolio: https://ujjwalkatiyar.in
