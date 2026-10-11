@@ -1,65 +1,42 @@
-<!-- <div align="center">
-  <img src="https://i.ibb.co/qMTkKBx0/Facebook-cover-1.png" alt="Facebook-cover-1" border="0">
-</div> -->
+# Hey, I'm Ujjwal 👋
 
-# Hey, I'm Ujjwal 
-<div>
-  <a href="https://ujjwalkatiyar.in">
-   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=37a16a&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Portfolio logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/ujjwalkatiyar07">
-   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/devXrithm">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
-  </a>
-  <a href="mailto:contact@ujjwalkatiyar.in">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=C71610&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.github.com/ujjwalkat07">
-    <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
-  </a>
-</div>
-</br>
+I build AI-powered applications, real-time systems, and scalable backend infrastructure that developers and businesses can use in production.
 
-Full Stack Engineer specializing in real-time web application, scalable distributed systems and high-performance backend using
-<strong>Typescript, Node.js, Redis, Kafka, Websockets</strong>. Experienced in end-to-end product development with hands-on expertise in modern
-technologies. Passionate about building scalable and high-performance production ready web applications.
+Most of my work is hands-on: designing backend architectures, optimizing APIs, building event-driven systems, and integrating AI into real-world products.
 
+I'm particularly interested in **AI agents, LLM observability, distributed systems, and backend engineering**.
 
-## 🚀 Current Projects
+## What I Work On
 
-- 🤖 **Exchange-X** — Crypto trading platform with real-time matching engine → [🌐 Live](https://web-exchange-x.onrender.com/)
-- 🤖 **CRM-X** — AI-powered CRM tool for businesses → [🌐 Live](https://crm-x-crm-client.vercel.app/)
-- 💧 **AquaHome** — Water delivery management system with QR doorstep billing → [🌐 Live](https://aquahome-one.vercel.app/)
-- 🏕️ **Camplife** — Campsite booking platform for Valley of Flowers treks → [🌐 Live](https://camping-ruby.vercel.app/)
-- ⚡ **Lamp** — Hackathon participant management, scoring & results platform → [🌐 Live](https://lamp-mih.vercel.app/)
-- 🛒 **MIH 4.0** — Landing page for tech hackathon v4.0 → [🌐 Live](https://mih-4-0.vercel.app/)
-- 📊 **MIH 3.0** — Landing page for tech hackathon v3.0 → [🌐 Live](https://mih-hq-two.vercel.app/)
-- ⏱️ **Count-Down Timer** — Countdown timer for hackathon → [🌐 Live](https://countdown-mih.netlify.app/timer)
+- Full-stack applications — end-to-end product development with Next.js, Node.js, and TypeScript.
+- Distributed systems — event-driven architecture, Kafka, Redis, and real-time communication with WebSockets.
+- AI-powered products — LLM integrations, AI-assisted workflows, and intelligent applications.
+- Backend performance — API optimization, caching, database performance, and load testing.
+- Developer tools — building practical tools and infrastructure that make developers more productive.
 
+## Current Projects
 
-<!-- <div display="flex">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="py logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="prisma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="60" alt="kafka logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  /> -->
+- **Exchange-X** — A cryptocurrency exchange with a price-priority order matching engine, real-time market data, and wallet updates. Built with Kafka, Redis, WebSockets, and MongoDB. [Live Demo](https://web-exchange-x.onrender.com/)
+- **CRM-X** — An AI-powered CRM that helps businesses manage leads and generate personalized client emails. [Live Demo](https://crm-x-crm-client.vercel.app/)
+- **AquaHome** — A water delivery management system with QR-based doorstep billing. [Live Demo](https://aquahome-one.vercel.app/)
+- **Camplife** — A campsite booking platform for Valley of Flowers treks. [Live Demo](https://camping-ruby.vercel.app/)
+- **Lamp** — A hackathon management platform for participant management, evaluation, scoring, and results. [Live Demo](https://lamp-mih.vercel.app/)
+
+## About Me
+
+- Full Stack Developer Intern at Wokegenics Solutions, where I optimized APIs, implemented Redis caching, and improved application response times.
+- Secured 1st place in the Bharat Shiksha Hackathon 2025.
+- Led technical operations for MIH 3.0 and MIH 4.0, 30-hour hackathons attended by 1,000+ participants.
+- Co-organized a 12-hour uAgent-powered hackathon at NIT Delhi in collaboration with Fetch.ai.
+
+## Connect With Me
+
+- Portfolio: https://ujjwalkatiyar.in
+- LinkedIn: https://www.linkedin.com/in/ujjwalkatiyar07
+- GitHub: https://github.com/ujjwalkat07
+- X: https://x.com/devXrithm
+- Email: contact@ujjwalkatiyar.in
+
+---
+
+*Building, experimenting, and learning by shipping real software.*
