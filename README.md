@@ -4,7 +4,7 @@ I build AI-powered applications, real-time systems, and scalable backend infrast
 
 Most of my work is hands-on: designing backend architectures, optimizing APIs, building event-driven systems, and integrating AI into real-world products.
 
-I'm particularly interested in **AI agents, LLM observability, distributed systems, and backend engineering**.
+currently working in **AI agents, LLM observability, distributed systems, and backend engineering**.
 
 ## What I Work On
 
