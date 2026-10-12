@@ -16,11 +16,12 @@ currently working in **AI agents, LLM observability, distributed systems, and ba
 
 ## Current Projects
 
-- **Exchange-X** — A cryptocurrency exchange with a price-priority order matching engine, real-time market data, and wallet updates. Built with Kafka, Redis, WebSockets, and MongoDB. [Live Demo](https://web-exchange-x.onrender.com/)
+- **Exchange-X** — A cryptocurrency exchange with a price-priority order matching engine, real-time market data, and wallet updates. Built with Kafka, Redis, WebSockets, and MongoDB. [Live Demo](https://exchange-x.vercel.app/)
 - **CRM-X** — An AI-powered CRM that helps businesses manage leads and generate personalized client emails. [Live Demo](https://crm-x-crm-client.vercel.app/)
 - **AquaHome** — A water delivery management system with QR-based doorstep billing. [Live Demo](https://aquahome-one.vercel.app/)
 - **Camplife** — A campsite booking platform for Valley of Flowers treks. [Live Demo](https://camping-ruby.vercel.app/)
 - **Lamp** — A hackathon management platform for participant management, evaluation, scoring, and results. [Live Demo](https://lamp-mih.vercel.app/)
+- **GitHub Mobile Widgets** — A compact, mobile-first Expo + React Native project with lightweight GitHub widgets and reusable UI components for iOS and Android. [GitHub Repo](https://github.com/ujjwalkat07/Github-Mobile-Widgets)
 
 ## Connect With Me
 
